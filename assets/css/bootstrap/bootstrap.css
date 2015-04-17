@@ -10,10 +10,15 @@ html {
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
-#front{
-	left-margin: 20px;
+#logo{
+	float:left;
 }
-
+#front{
+	left-margin: 130px;
+}
+#front{
+	left-margin: 210px;
+}
 body {
   margin: 0;
 }
